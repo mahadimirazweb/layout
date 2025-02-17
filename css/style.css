@@ -1,0 +1,82 @@
+.container{
+    height: 100px;
+}
+.red{
+    text-align: center;
+    background-color: red;
+}
+.wrapper{
+    overflow: hidden;
+}
+.m{
+    width: 50%;
+    height: 100px;
+    text-align: center;
+}
+.blue{
+    float: left;
+    background-color: blue;
+}
+.chocolate{
+    float: right;
+    background-color: chocolate;
+}
+.my{
+    float: left;
+    width: 33.33%;
+    height: 100px;
+    text-align: center;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.aqua{
+    background-color: aqua;
+}
+.go{
+    float: left;
+    width: 25%;
+    height: 100px;
+    text-align: center;
+}
+.seagreen{
+    background-color: seagreen;
+}
+.olive{
+    background-color: olive;
+}
+.orange{
+    background-color: orange;
+}
+.gray{
+    background-color: gray;
+}
+.to{
+    float: left;
+    width: 20%;
+    height: 100px;
+    text-align: center;
+}
+.pink{
+    background-color: pink;
+}
+.indigo{
+    background-color: indigo;
+}
+.teal{
+    background-color: teal;
+}
+.orchid{
+    background-color: orchid;
+}
+.purple{
+    background-color: purple;
+}
+.black{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
